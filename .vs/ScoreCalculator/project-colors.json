@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c93f1ac9-7256-43ef-9243-35577d8bba0c": {
+      "ProjectGuid": "c93f1ac9-7256-43ef-9243-35577d8bba0c",
+      "DisplayName": "ScoreCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
